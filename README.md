@@ -27,8 +27,7 @@ go run main.go
 ```
 
  **Result：**
-  ![mole](https://github.com/bowwowxx/ChatGPTLineBot/blob/master/docker-run.jpg)  
-
+  ![mole](https://github.com/bowwowxx/ChatGPTLineBot/blob/main/docker-run.jpg)  
 
 ### 3.Use ngrok tunnels to localhost
 
@@ -37,13 +36,13 @@ go run main.go
  ```
 
  **Result：**
-  ![mole](https://github.com/bowwowxx/ChatGPTLineBot/blob/master/ngork.jpg)  
+  ![mole](https://github.com/bowwowxx/ChatGPTLineBot/blob/main/ngork.jpg)  
 
 ### 4.Verify line bot webhook
 
  **Result：**
-  ![mole](https://github.com/bowwowxx/ChatGPTLineBot/blob/master/linebot-webhook.jpg)  
+  ![mole](https://github.com/bowwowxx/ChatGPTLineBot/blob/main/linebot-webhook.jpg)  
 
 ### 5.enjoy it !
  **Result：**
-  ![mole](https://github.com/bowwowxx/ChatGPTLineBot/blob/master/pikachu.jpg)  
+  ![mole](https://github.com/bowwowxx/ChatGPTLineBot/blob/main/pikachu.jpg)  
